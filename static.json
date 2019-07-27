@@ -1,0 +1,9 @@
+{
+"root": "bulid/",
+"clean_urls": false,
+"routes": {
+    "/**": "index.html"
+
+}
+
+}
